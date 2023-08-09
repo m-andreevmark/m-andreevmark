@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Mark</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Аналитик данных>
 
 <!--
 **m-andreevmark/m-andreevmark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
